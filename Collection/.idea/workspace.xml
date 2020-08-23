@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b955b62-0006-4fd6-9522-335ee4b32e0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/claire/masterclass/Theater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageChallenge/.idea/artifacts/PackageChallenge_jar2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageChallenge/PackageChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageChallenge/src/com/claire/series/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/ScopeChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/src/com/example/test/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeriesTest/SeriesTest.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1g2pc1sExaj5EHSU0dBLa8gJMLO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java tutorial source code/Java-Collections-Immutable-Classes-Source-code" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.claire.masterclass.Main" />
+      <module name="Collection" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b955b62-0006-4fd6-9522-335ee4b32e0c" name="Default Changelist" comment="" />
+      <created>1597322616349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597322616349</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="856" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1597323699603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="856" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1597323699603" />
+    <state x="909" y="227" key="FileChooserDialogImpl" timestamp="1598167149248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="909" y="227" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598167149248" />
+    <state width="912" height="90" key="GridCell.Tab.0.bottom" timestamp="1597325149073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="912" height="90" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597325149073" />
+    <state width="912" height="90" key="GridCell.Tab.0.center" timestamp="1597325149072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="912" height="90" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597325149072" />
+    <state width="912" height="90" key="GridCell.Tab.0.left" timestamp="1597325149072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="912" height="90" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597325149072" />
+    <state width="912" height="90" key="GridCell.Tab.0.right" timestamp="1597325149072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="912" height="90" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597325149072" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1597323046468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597323046468" />
+    <state x="430" y="205" key="run.anything.popup" timestamp="1597929914590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="205" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1597929914590" />
+  </component>
+</project>
