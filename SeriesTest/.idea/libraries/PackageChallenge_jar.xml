@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="PackageChallenge_jar">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../PackageChallenge/out/artifacts/PackageChallenge_jar" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
